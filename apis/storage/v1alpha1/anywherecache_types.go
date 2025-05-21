@@ -59,7 +59,7 @@ type StorageAnywhereCacheSpec struct {
 	AdmissionPolicy *string `json:"admissionPolicy,omitempty"`
 }
 
-// StorageAnywhereCacheStatus defines the config connector machine state of StorageAnywhereCache
+// StorageAnywhereCacheStatus defines the config connector machine state of StorageAnywhereCache.
 type StorageAnywhereCacheStatus struct {
 	/* Conditions represent the latest available observations of the
 	   object's current state. */
